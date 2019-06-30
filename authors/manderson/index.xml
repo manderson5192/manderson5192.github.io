@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>~/manderson.sh</title>
+    <link>/authors/manderson/</link>
+    <description>Recent content on ~/manderson.sh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright Matt Anderson {year}</copyright>
+    
+	    <atom:link href="/authors/manderson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/manderson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/manderson/</guid>
+      <description>&lt;p&gt;My name is Matt Anderson and I&amp;rsquo;m an Engineering Manager at &lt;a href=&#34;https://expanse.co&#34; target=&#34;_blank&#34;&gt;Expanse&lt;/a&gt;, a cybersecurity startup that is indexing the entire global internet to defend some of the world&amp;rsquo;s most important organizations.  I focus on systems that mine big and streaming datasets, and I take a particular interest in the security, privacy, and openness of the internet.&lt;/p&gt;
+
+&lt;p&gt;Outside of work, I enjoy exploring the mountains, rivers, lakes, deserts, and coastline of the Western United States, as well as the small towns that lie between them.  During the summer of 2015, I hiked more than 1,000 miles southbound along the Pacific Crest Trail (PCT), and have increased my PCT mileage to 1,330 in the summers since.  I&amp;rsquo;ve visited every National Park in Washington, Oregon, and California, and am constantly in search of the next beautiful place to visit.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size:1.5rem&#34;&gt;🏔️ 🌲 🌊 🐻 🌵 🍁&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
